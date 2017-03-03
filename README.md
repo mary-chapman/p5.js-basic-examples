@@ -17,7 +17,7 @@ In this example, the user can click on an object and change it's color.
 <img src="screenshots/bubbles-change-color.png" width="200px" />
 
 ## [Objects with a lifespan](https://github.com/mary-chapman/p5.js-basic-examples/tree/master/bubbles-lifespan)
-These objects only last for a certain amount of time.  Once there color is faded out, the object is deleted.
+These objects only last for a certain amount of time.  Once their color is faded out, the object is deleted.
 
 <img src="screenshots/bubbles-lifespan.png" width="200px" />
 
